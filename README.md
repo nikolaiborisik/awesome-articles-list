@@ -66,3 +66,13 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 [Exploring ES6](http://exploringjs.com/es6/)
 
 [JavaScript-Garden](http://bonsaiden.github.io/JavaScript-Garden/)
+
+[List of free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
+
+## Podcasts
+
+[syntax.fm](https://syntax.fm/)
+
+## Video channels
+
+[Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
